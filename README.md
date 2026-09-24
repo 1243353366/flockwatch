@@ -156,4 +156,4 @@ All data ingested is user-provided from their own lawful captures and public dat
 
 ## License
 
-MIT
+Apache License 2.0

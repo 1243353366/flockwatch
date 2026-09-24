@@ -7,7 +7,7 @@ name = "flockwatch"
 version = "0.1.0"
 description = "Unified Flock camera detection, data fusion, and RF fingerprinting toolkit"
 readme = "README.md"
-license = {text = "MIT"}
+license = {text = "Apache-2.0"}
 requires-python = ">=3.9"
 authors = [{name = "FlockWatch Contributors"}]
 keywords = ["flock", "alpr", "surveillance", "detection", "sdr", "wifi", "ble", "wigle", "rf-fingerprinting"]
